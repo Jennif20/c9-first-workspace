@@ -7,6 +7,8 @@ $(document).ready(function(){
         alert("hi");
     });
     
+ 
+    
     
     // 2. On line 13 use jQuery to append "I live in NYC" to the h2 tag with the id four.
     $("#button2").click(function() {
